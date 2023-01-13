@@ -1,1 +1,3 @@
-# baseballdataanalysis
+#Baseball data analysis
+
+In 1951, baseball had 1,800 data points per season. Today with the help of platforms and statisticians, in the last ten years we have created more ways to collect data about games played than in the 110 odd years before that combined. That comes out to something like 5 billion data points per season. Every time there has been a surge in the amount of data available there has been a corresponding surge in the quality of analysis and thus our understanding of the game. This is the future of data analysis. It’s not increasingly larger spreadsheets, is using powerful computers to analyze and deliver answers. In this project we look at interesting baseball questions and try to tackle them with Machine Learning, Python, SQL or Tableau.
